@@ -25,6 +25,11 @@
 	body {
 		line-height: 1;
 	}
+    
+    .wtapages {
+        font-size: 12px;
+        margin-bottom: 5px;
+    }
 
 	ol, ul {
 		list-style: none;
